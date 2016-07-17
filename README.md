@@ -1,2 +1,2 @@
-# screen-capture-experiements
-eperiements with multi-threading to capture screens
+# screen-capture-experiments
+experiments with multi-threading to capture screens
